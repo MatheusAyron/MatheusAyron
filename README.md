@@ -8,11 +8,11 @@
     
 -   👨‍💻  All of my projects are available at  [MatheusAyron.net.br](https://github.com/MatheusAyron)
      
--   📫  How to reach me  **[matheusayron12@gmail.com](mailto:matheusayron12@gmail.com)**
+-   📫  How to reach me [matheusayron12@gmail.com](mailto:matheusayron12@gmail.com)
     
--   💻 Learning programming <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+-   💻 Learning programming <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> ....
 
-- Reach me out 👇🏼
+- Find me  👇🏼
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-3664FF?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eu_matheusayron/)](https://www.instagram.com/eu_matheusayron/) [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Ayron-3664FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-ayron-de-morais-cardoso-b794311bb/)](https://www.linkedin.com/in/matheus-ayron-de-morais-cardoso-b794311bb/) [![Gmail Badge](https://img.shields.io/badge/-matheusayron12@gmail.com-3664FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusayron12@gmail.com)](mailto:matheusayron12@gmail.com)
 <p align="center">
