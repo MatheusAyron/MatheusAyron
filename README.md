@@ -4,7 +4,7 @@
 
 -   📍 I'm from Brasil 
 
--   🚀 I’m currently working on  [Online Applications] 👨‍🚀(https://www.instagram.com/onlineapplications/)
+-   🚀👨‍🚀 I’m currently working on [Online Applications](https://www.instagram.com/onlineapplications/)
     
 -   👨‍💻  All of my projects are available at  [MatheusAyron.net.br](https://github.com/MatheusAyron)
      
@@ -14,8 +14,7 @@
 
 - Reach me out 👇🏼
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-3664FF?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/papodedev/) [![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-3664FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) [![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-3664FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
-
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-3664FF?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eu_matheusayron/)](https://www.instagram.com/eu_matheusayron/) [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Ayron-3664FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-ayron-de-morais-cardoso-b794311bb/)](https://www.linkedin.com/in/matheus-ayron-de-morais-cardoso-b794311bb/) [![Gmail Badge](https://img.shields.io/badge/-matheusayron12@gmail.com-3664FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusayron12@gmail.com)](mailto:matheusayron12@gmail.com)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MatheusAyron&show_icons=true" alt="maykbrito"/> 
 </p>
